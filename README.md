@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HayyanNaufal
-- 😏 Aku ingin sukses
+- 😏 I want to be successful
 
 <!---
 HayyanNaufal/HayyanNaufal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
