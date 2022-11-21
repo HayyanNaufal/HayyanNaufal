@@ -1,3 +1,3 @@
-- 👋 Hay Saya @HayyanNaufal
+👋 Hay Saya **@HayyanNaufal**
 
 <h3>Sedang Belajar</h3>
